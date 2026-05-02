@@ -1,4 +1,4 @@
-# Java Basics Practice 🚀
+# Java Basics Practice 
 
 This repository contains my Day 1 Java practice programs.
 
